@@ -1,2 +1,2 @@
-# Microsoft
-Microsoft related projects
+# PowerShell
+PowerShell related projects and scripts
